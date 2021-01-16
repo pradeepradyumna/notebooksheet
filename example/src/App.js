@@ -1,10 +1,15 @@
 import React from 'react'
-
-import { ExampleComponent } from 'notebooksheet'
+import { Notebook } from 'notebooksheet'
 import 'notebooksheet/dist/index.css'
-
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  const items = []
+  // Example items
+  // items[0] = 'one'
+  // items[1] = 'two'
+
+  const heading = '' // Enter a heading
+
+  return <Notebook heading={heading} items={items} />
 }
 
 export default App
