@@ -1,6 +1,6 @@
 # notebooksheet
 
-> Made with create-react-library
+> This gives a Notebook style div that displays a list of items passed styled in handwriting font.
 
 [![NPM](https://img.shields.io/npm/v/notebooksheet.svg)](https://www.npmjs.com/package/notebooksheet) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
